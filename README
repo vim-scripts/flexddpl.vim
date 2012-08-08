@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4161
+
+The Flexible Data Distribution Policy Language (FlexDDPL) is a declarative language for expressing storage gateway options and constraints. This syntax file makes editing the policies in a text editor more comfortable.
